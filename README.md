@@ -1,6 +1,6 @@
 # 📱 Performans Yönetimi Mobil Uygulaması
 
-Bu proje, Altınbaş Üniversitesi Bitirme Projesi kapsamında, LIFTUP programı çerçevesinde geliştirilmiştir.  
+Bu proje, Bitirme Projesi kapsamında, LIFTUP programı çerçevesinde geliştirilmiştir.  
 Amacı, kurumsal bir yapıda **çalışanların görev takibini** sağlamak ve yöneticilerin **performans değerlendirmesi** yapabileceği bir mobil uygulama sunmaktır.
 
 ---
