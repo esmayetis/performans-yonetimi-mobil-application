@@ -38,6 +38,5 @@ lib/
 ├── models/ # Veri modelleri
 └── main.dart # Uygulama başlatıcısı
 
-yaml
 
 ---
