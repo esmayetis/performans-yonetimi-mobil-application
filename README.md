@@ -29,7 +29,7 @@ Amacı, kurumsal bir yapıda **çalışanların görev takibini** sağlamak ve y
 ---
 
 
-## 📂 Proje Yapısı (Özet)
+## 📂 Proje Yapısı
 
 lib/
 ├── screens/ # Giriş, panel, görev ekranları
