@@ -1,11 +1,11 @@
-# 📱 Performans Yönetimi Mobil Uygulaması
+#  Performans Yönetimi Mobil Uygulaması
 
 Bu proje, Bitirme Projesi kapsamında, LIFTUP programı çerçevesinde geliştirilmiştir.  
 Amacı, kurumsal bir yapıda **çalışanların görev takibini** sağlamak ve yöneticilerin **performans değerlendirmesi** yapabileceği bir mobil uygulama sunmaktır.
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
 ✅ Çalışanlar için görev ekleme, görüntüleme ve güncelleme  
 ✅ Yöneticiler için çalışan puanlama ve geri bildirim modülü  
@@ -15,7 +15,7 @@ Amacı, kurumsal bir yapıda **çalışanların görev takibini** sağlamak ve y
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 | Teknoloji       | Açıklama                         |
 |----------------|----------------------------------|
@@ -29,7 +29,7 @@ Amacı, kurumsal bir yapıda **çalışanların görev takibini** sağlamak ve y
 ---
 
 
-## 📂 Proje Yapısı
+##  Proje Yapısı
 
 lib/
 ├── screens/ # Giriş, panel, görev ekranları
